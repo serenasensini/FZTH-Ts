@@ -27,12 +27,10 @@ export class Persona {
 
 ```
 
-```
-
 Esempio:
 
 ```
-//istanza dell'oggeto di tipo Persona
+//istanza dell'oggetto di tipo Persona
 p1 = new Persona('Mario', 'Rossi', 34);
 console.log(p1.saluta());
 ```
